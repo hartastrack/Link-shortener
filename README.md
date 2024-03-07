@@ -1,0 +1,1 @@
+It was my first project ever, a link shortener. It wasn't 100% original or the prettiest thing, but it helped me a lot. Initially, I wasn't sure what kind of track I would be following, but I've always believed that the best way to learn something is by doing it. So, here it is. It's rather basic; I used HTML, CSS, and JavaScript—nothing too fancy.
